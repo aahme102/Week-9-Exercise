@@ -1,22 +1,26 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "Week 9 Exercise"
+  title: "Anous Ahmed"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: Anous Ahmed Resume.pdf
+        text: Resume
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+    theme: sandstone
+    mainfont: arial 
+    fontsize: 1.5rem  
+    fontcolor: “#0013d5” 
+    linkcolor: “#ff33f0” 
+    monofont: courier new 
 
 editor: visual
 
