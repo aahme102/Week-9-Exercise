@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anous Ahmed",
+    "section": "",
+    "text": "👋 Hello, I’m Anous\nI’m a graduate student at the University of Illinois Chicago, pursuing a Master’s degree in Civic Analytics. I am highly passionate about AI, policy research, and civic technology to address pressing social issues of today."
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Welcome to My Page",
+    "section": "🔗 Links",
+    "text": "🔗 Links\n\nhttps://github.com/aahme102/Week-9-Exercise\nDownload My Resume (PDF)"
+  },
+  {
+    "objectID": "index.html#about-this-page",
+    "href": "index.html#about-this-page",
+    "title": "Welcome to My Page",
+    "section": "🧠 About This Page",
+    "text": "🧠 About This Page\nThis website was built using Quarto and hosted through GitHub Pages as part of my PA 446 – Coding for Civic Data Applications course.\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Skills\n\nMicrosoft Word, PowerPoint, Excel, and Publisher\nResearch and Writing\nData Analysis (R & Excel)\n\n\n\nHobbies\n\nGym\nReading\nStocks"
+  }
+]

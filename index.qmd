@@ -1,11 +1,23 @@
 ---
-title: "Week 9 Exercise"
+title: "Anous Ahmed"
+image: Anous Photo.jpeg
+resources: resume.pdf
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:aahme109@uic.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/aahme102/Week-9-Exercise 
+    - text: Resume
+      icon: file-text
+      href: resume.pdf
 ---
 
-This is a Quarto website.
+👋 Hello, I'm Anous
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I’m a graduate student at the University of Illinois Chicago, pursuing a Master's degree in Civic Analytics. I am highly passionate about AI, policy research, and civic technology to address pressing social issues of today.

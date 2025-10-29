@@ -2,8 +2,18 @@
 title: "About"
 ---
 
-About this site
+### Skills 
 
-```{r}
-1 + 1
-```
+-   Microsoft Word, PowerPoint, Excel, and Publisher
+
+-   Research and Writing
+
+-   Data Analysis (R & Excel)
+
+### Hobbies
+
+-   Gym
+
+-   Reading
+
+-   Stocks
